@@ -1,6 +1,7 @@
 KCA University
-Course: DBS 2201 - Introduction to GitHub for Version Control
+Course: DBS 2201 - Introduction to GitHub
 Name: Sharon Omingo
 Course: DBS 2201
+
 
 
